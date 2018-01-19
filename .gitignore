@@ -58,6 +58,8 @@ local.properties
 classes/
 src/main/resources/config/application-dev.yml
 src/main/resources/config/application-prod.yml
+/webpack/webpack.dev.js
+
 
 ######################
 # Visual Studio Code
@@ -139,3 +141,4 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+/proxy.conf.json
